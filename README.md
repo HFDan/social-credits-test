@@ -6,6 +6,10 @@ Wonder no more!
 
 You can take this test and see if you are a model citizen, or a bad citizen, ready to be sentenced to cock and balls extermination.
 
+Source of questions:
+* Me
+* Dream stans on omegle
+
 # Build
 1. Get meson
     * Debian: `sudo apt install meson`
