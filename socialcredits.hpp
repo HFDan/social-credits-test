@@ -6,7 +6,7 @@
 #include <utility>
 #include <vector>
 
-#ifdef WIN32
+#ifdef _WIN32
 #define CLEAR_COMMAND "cls"
 #elif UNIX
 #define CLEAR_COMMAND "clear"
